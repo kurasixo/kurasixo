@@ -1,0 +1,3 @@
+- 👋 Hi, I’m => @kurasixo
+- 👀 I’m interested in => [TS, React, Cars]
+- 📫 How to reach me => kurasixo@gmail.com
